@@ -414,7 +414,8 @@ class Cli {
         else if (answers.action === 'Wheelie') {
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin && this.vehicles[i] instanceof Motorbike) {
-              //this.vehicles[i].wheelie();
+              const motorbike = this.vehicles[i] as Motorbike;
+              motorbike.wheelie();
             }
           }
         }
