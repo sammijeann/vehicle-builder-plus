@@ -20,8 +20,8 @@ This project is a command-line application that allows users to create or select
 Download the file and extract data
 
 ## Usage
-Video Walkthrough: https://drive.google.com/file/d/1n1osHdboE-2veo6Vc9YHiN7T6qhzLzSv/view?usp=sharing
-Open in an IDE (I used VS Code), open the terminal, and type 'node index.js'
+Video Walkthrough: https://drive.google.com/file/d/17gjEOW8YIxivZ9kp1F5TpWt0ixe5pU5V/view?usp=sharing
+Open in an IDE (I used VS Code), open the terminal, and type 'npm start'
 
 ## Contribution
 Keep credits in comments
